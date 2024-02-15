@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/757466395.svg)](https://zenodo.org/doi/10.5281/zenodo.10663598)
+
 # About HEBui_v3.0
 
 The **py3CSEP HEB** is the python implementation of the **3CSEP High Efficiency Buildings (HEB)** model developed by the [*Department of Environmental Sciences and Policy*](https://envsci.ceu.edu/) at [**CEU**](https://www.ceu.edu/) (Central European University).
