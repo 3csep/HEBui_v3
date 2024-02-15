@@ -11,6 +11,10 @@ authors:
   - given-names: Zoltán
     family-names: Hajnal
     orcid: 'https://orcid.org/0000-0003-1758-4754'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10663599
+    description: Archived snapshot of HEBui v3.0.0
 repository-code: 'https://github.com/3csep/HEBui_v3'
 abstract: >-
   The py3CSEP HEB is the python implementation of the 3CSEP
